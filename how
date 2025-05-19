@@ -1,0 +1,39 @@
+[33mcommit d720e1cf7e5c0e5071e2c7c2c009dcc0ee7d070d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 400a406 0bb6dbd
+Author: harika <kantipudiharika98@gmail.com>
+Date:   Mon May 19 15:23:09 2025 +0530
+
+    tMerge remote-tracking branch 'origin/main'
+     git commit -m "this is my frst time learning git"
+
+[33mcommit 400a406618f59fd62b9b133c97addcea55133e0d[m
+Author: harika <kantipudiharika98@gmail.com>
+Date:   Mon May 19 15:11:19 2025 +0530
+
+    she is my present bf
+
+[33mcommit 0bb6dbd8278b6b8a9ad1f84ef4ca72e179105c21[m[33m ([m[1;31morigin/kantipudi[m[33m)[m
+Author: harika <kantipudiharika98@gmail.com>
+Date:   Sat May 17 17:30:24 2025 +0530
+
+    im commiting a new file to main branch
+
+[33mcommit 651056ab811e9d6a7dddb2f9bef5836b8b08983e[m
+Author: harika <kantipudiharika98@gmail.com>
+Date:   Sat May 17 16:37:22 2025 +0530
+
+    First commit
+
+[33mcommit 09ccc97b35c7a45cada16265f9ec1c583b63411b[m
+Author: khharika <kantipudiharika98@gmail.com>
+Date:   Sat May 17 11:01:36 2025 +0530
+
+    Create file1
+    
+    initial commit
+
+[33mcommit f1ba703253393e54cd439e495c97443b3bf398ff[m
+Author: khharika <kantipudiharika98@gmail.com>
+Date:   Sat May 17 10:46:37 2025 +0530
+
+    Initial commit
